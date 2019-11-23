@@ -19,6 +19,6 @@ from projeto_django.core.views import index
 
 
 urlpatterns = [
-    path('', views.home, name='index'),
+    path('', index, name='index'),
     path('admin/', admin.site.urls),
 ]
