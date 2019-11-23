@@ -13,7 +13,7 @@ Segue o github dele e o video no Youtube:
 1 - Clone esse repositório;
 
 ```
-https://github.com/fabiano-moreira/first_django
+git clone git@github.com:fabiano-moreira/first_django.git
 
 ```
 
@@ -39,10 +39,14 @@ $ source .venv/bin/activate
 (.venv)$ python manage.py migrate
 
 ```
+5 - Crie um usuário administrador para o Django:
 
-5 - Para rodar o projeto, execute o comando abaixo e acesse o ip e porta informados:
+```
+(.venv)$ python manage.py createsuperuser
+```
+
+6 - Para rodar o projeto, execute o comando abaixo e acesse o ip e porta informados:
 
 ```
 (.venv)$  python manage.py runserver
 ```
-
