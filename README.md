@@ -39,3 +39,10 @@ $ source .venv/bin/activate
 (.venv)$ python manage.py migrate
 
 ```
+
+5 - Para rodar o projeto, execute o comando abaixo e acesse o ip e porta informados:
+
+```
+(.venv)$  python manage.py runserver
+```
+
