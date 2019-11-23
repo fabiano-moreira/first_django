@@ -2,6 +2,14 @@
 
 Projeto simples em Django.
 
+Feito com base no tutorial do rg3915.
+
+Segue o github dele e o video no Youtube:
+
+[rg3915/django-simples](https://github.com/rg3915/django-simples)
+
+[Django: projeto simples ](https://www.youtube.com/watch?v=DEhzECzf7_g&t=305s)
+
 1 - Clone esse repositório;
 
 ```
