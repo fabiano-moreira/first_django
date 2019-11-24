@@ -2,6 +2,9 @@
 
 Projeto simples em Django.
 
+Fiz também o deploy no Heroku:
+[django-first-fabiano](https://django-first-fabiano.herokuapp.com/)
+
 Feito com base no tutorial do rg3915.
 
 Segue o github dele e o video no Youtube:
